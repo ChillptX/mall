@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.chillpt.mall.coupon.entity.MemberPriceEntity;
 import com.chillpt.mall.coupon.service.MemberPriceService;
-import com.chillpt.common.utils.PageUtils;
-import com.chillpt.common.utils.R;
+import com.chillpt.mall.common.utils.PageUtils;
+import com.chillpt.mall.common.utils.R;
 
 
 

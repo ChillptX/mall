@@ -1,7 +1,7 @@
 package com.chillpt.mall.member.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.chillpt.common.utils.PageUtils;
+import com.chillpt.mall.common.utils.PageUtils;
 import com.chillpt.mall.member.entity.MemberLoginLogEntity;
 
 import java.util.Map;

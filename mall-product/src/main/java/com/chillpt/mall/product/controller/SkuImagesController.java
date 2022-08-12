@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.chillpt.mall.product.entity.SkuImagesEntity;
 import com.chillpt.mall.product.service.SkuImagesService;
-import com.chillpt.common.utils.PageUtils;
-import com.chillpt.common.utils.R;
+import com.chillpt.mall.common.utils.PageUtils;
+import com.chillpt.mall.common.utils.R;
 
 
 

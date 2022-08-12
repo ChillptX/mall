@@ -1,7 +1,7 @@
 package com.chillpt.mall.product.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.chillpt.common.utils.PageUtils;
+import com.chillpt.mall.common.utils.PageUtils;
 import com.chillpt.mall.product.entity.SkuInfoEntity;
 
 import java.util.Map;
